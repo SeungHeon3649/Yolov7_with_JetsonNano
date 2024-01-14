@@ -83,6 +83,8 @@
 - 양자화를 진행한 후에 9프레임
 - TensorRT를 활용해서 양자화 진행
 
+  ![image](https://github.com/SeungHeon3649/Yolov7_with_JetsonNano/assets/94602281/b599679d-d149-489d-8828-ed3c2712378f)
+
   <img src="https://github.com/SeungHeon3649/Yolov7_with_JetsonNano/assets/94602281/b08dc420-995b-4598-8306-1e719083bd36" width="480" height="320"/>
 
 # 결과
