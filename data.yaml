@@ -1,0 +1,5 @@
+train: data/images/train/
+val: data/images/val/
+
+nc: 2  # 클래스의 수
+names: ['car', 'people']  # 클래스 이름
